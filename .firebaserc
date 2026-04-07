@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "testing": "devops-final-exam-testing",
+    "staging": "devops-final-exam-staging",
+    "production": "devops-final-exam-production"
+  }
+}
